@@ -1,6 +1,6 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "https://github.com/ronaldkwan93/ToDoApp/assets/132134496/1cd36c5a-a87a-4c3a-885c-23c94c2b1b50"
+imageAlt: "profilepicture"
 ---
 
 # Hello and Welcome!
@@ -14,4 +14,3 @@ Photo by <a href="https://github.com/ronaldkwan93/ToDoApp/assets/132134496/1cd36
 I'm an advocate for seamless, user-friendly applications and websites. I'm all about understanding your needs and how to work together to present the best platform for your customers.
 
 # Technical Proficiencies
-
