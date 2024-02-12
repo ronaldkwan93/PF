@@ -9,7 +9,7 @@ module.exports = {
           siteName: "Ronald Kwan", // Used in manifest.json
           shortName: "Ronald Kwan", // Used in manifest.json
           startUrl: "/", // Used in manifest.json
-          backgroundColor: "#000000", // Used in manifest.json
+          backgroundColor: "#FF0000", // Used in manifest.json
           themeColor: "#FFFFFF", // Used in manifest.json
           display: "minimal-ui", // Used in manifest.json
         },
